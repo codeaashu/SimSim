@@ -1,0 +1,1333 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/image/simsimlgo.png" type="image/x-icon">
+    <title>SimSim - NFT Marketplace</title>
+    <!-- js ui -->
+    <link rel="stylesheet" href="assets/css/jquery-ui.css">
+    <!-- swiper -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <!-- offline font -->
+    <link rel="stylesheet" href="assets/font/stylesheet.css">
+    <!-- fontAwsome -->
+    <link rel="stylesheet" href="assets/css/all.min.css">
+    <!-- css -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- boostrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- media css -->
+    <link rel="stylesheet" href="assets/css/media.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container big">
+            <div class="header-inner d-flex align-items-center justify-content-between ">
+                <div class="logo ">
+                    <img src="assets/image/simsim.png" alt="logo" class="img-fluid">
+                </div>
+                <div class="menu-wrap">
+                    <ul class="nav-menu  d-none d-sm-none d-lg-flex align-items-center justify-content-center">
+                        <li class="home"><a href="">Home</a></li>
+                        <li><a href="">tournament</a></li>
+                        <li><a href="">pages</a></li>
+                        <li><a href="">shop</a></li>
+                        <li><a href="">blog</a></li>
+                        <li><a href="">contact</a></li>
+                    </ul>
+
+                </div>
+                <div class="icon d-flex align-items-center">
+                    <div class="search  d-none d-sm-flex">
+                        <div class="s-icon d-flex align-items-center justify-content-center rounded-circle">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </div>
+                        <input type="text" class="textbox text-white" placeholder="Search Here">
+                    </div>
+                    <button class="action-btn fs-6 d-none d-lg-flex" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal">
+                        <span>Join Now</span>
+                    </button>
+
+                    <button class="btn p-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop"
+                        aria-controls="staticBackdrop">
+                        <div class="menu-button  d-lg-none">
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                    </button>
+
+                    <div class="offcanvas offcanvas-end" data-bs-backdrop="static" tabindex="-1" id="staticBackdrop"
+                        aria-labelledby="staticBackdropLabel">
+                        <div class="offcanvas-header ps-4">
+                            <h5 class="offcanvas-title" id="staticBackdropLabel">
+                                <div class="my-3 ms-4">
+                                    <img src="assets/image/simsim.png" alt="logo" class="img-fluid">
+                                </div>
+                            </h5>
+                            <button type="button"
+                                class="btn-close d-flex align-items-center justify-content-center pe-4 fs-6 text-white"
+                                data-bs-dismiss="offcanvas" aria-label="Close"><i
+                                    class="fa-solid fa-xmark"></i></button>
+                        </div>
+                        <div class="offcanvas-body">
+                            <div>
+                                <ul class="offcanvas-menu">
+                                    <li class="home mb-3"><a href="" class="text-white">Home</a></li>
+                                    <li class="mb-3"><a href="" class="text-white">tournament</a></li>
+                                    <li class="mb-3"><a href="" class="text-white">pages</a></li>
+                                    <li class="mb-3"><a href="" class="text-white">shop</a></li>
+                                    <li class="mb-3"><a href="" class="text-white">blog</a></li>
+                                    <li class="mb-3"><a href="" class="text-white">contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header start -->
+    <main>
+        <!-- banner start -->
+        <section class="banner">
+            <div class="shape-right"></div>
+            <div class="container big m-auto">
+                <div class="row">
+                    <div class="col-xl-6 col-md-12">
+                        <div class="banner-left">
+                            <div class="inner-content">
+                                <h2 class="heading">
+                                    Collect Next <br>
+                                    Generation
+                                    <span class="highlight">NFTs</span> <br>
+                                    Today
+                                </h2>
+                                <p class="dis">SimSim is the premier marketplace for nifties, which are digital items
+                                    you can truly own for yourself</p>
+                                <button class="action-btn fs-6">
+                                    <span>Get Connected</span>
+                                </button>
+                            </div>
+                            <div class="play">
+                                <h6>We are SimSim NFT</h6>
+                                <div class="list d-flex align-items-center">
+                                    <p class="me-3">We accept:</p>
+                                    <ul class=" d-flex">
+                                        <li><i class="fa-brands fa-ethereum"></i></li>
+                                        <li><i class="fa-brands fa-bitcoin"></i></li>
+                                        <li><i class="fa-brands fa-contao"></i></li>
+                                        <li><i class="fa-brands fa-stripe"></i></li>
+                                        <li><i class="fa-brands fa-gg-circle"></i></li>
+                                        <li><i class="fa-brands fa-codepen"></i></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-12">
+                        <div class="banner-right px-4 px-lg-0">
+                            <div class="image ">
+                                <video src="assets/image/hero.mp4" alt="banner" class="img-fluid" autoplay loop muted></video>
+                                <!-- <img src="assets/image/banner.b41e8bd3384755f8ff18.png" alt="banner" class="img-fluid"> -->
+                            </div>
+                            <div class="price position-absolute  d-flex">
+                                <div class="p-icon">
+                                    <img src="assets/image/ether.png" alt="ether" class="img-fluid">
+                                </div>
+                                <div class="content text-black">
+                                    <p>Current Bid</p>
+                                    <h5>2.26 ETH</h5>
+                                </div>
+                            </div>
+                            <div class="owner position-absolute  d-flex">
+                                <div class="p-icon2 overflow-hidden">
+                                    <img src="assets/image/aiaashu.jpg" alt="ether" class="img-fluid">
+                                </div>
+                                <div class="content text-black">
+                                    <h5>Ashutosh Singh</h5>
+                                    <p>@.icecream</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- banner end -->
+        <!-- about start -->
+        <section class="about position-relative">
+            <div class="shape"></div>
+            <div class="container-fluid container-lg ">
+                <div class="row">
+                    <div class="col-xl-6 col-md-12">
+                        <div class="about-right">
+                            <div class="images position-relative d-flex justify-content-center ">
+                                <img src="assets/image/about-01.png" alt="SimSim" class="img1 position-relative">
+                                <img src="assets/image/about-02.png" alt="SimSim" class="img2 position-absolute">
+                                <img src="assets/image/about-03 (2).png" alt="SimSim" class="img6 position-absolute">
+                                <img src="assets/image/about-04.png" alt="SimSim" class="img4 position-absolute">
+                                <img src="assets/image/about-05.png" alt="SimSim" class="img5 position-absolute">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-12 order-first order-xl-last">
+                        <div class="about-content">
+                            <h6 class="sub-heading fs-6">
+                                <span>About us</span>
+                            </h6>
+                            <h3 class="heading">Hight Quality NFT Collections</h3>
+                            <p class="mb-17 text-white">SimSim where art meets innovation, where Empowering creators and collectors through the power of NFTs.</p>
+                            <p class="mb-26 text-white">We're more than just NFTs, we're a 6 year experience.
+                                Own a piece of the future with our limited-edition. Invest in innovation and creativity with our groundbreaking NFT collection.
+                                Join a passionate community of collectors and unlock exclusive benefits.Experience the next chapter of digital art ownership.</p>
+                            <button class="action-btn fs-6">
+                                <span>More About Us</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about end -->
+        <!-- speciality start -->
+        <section class="speciality position-relative">
+            <div class="shape-right"></div>
+            <div class="container-fluid container-lg">
+                <div class="row justify-content-center">
+                    <div class="col-12 ">
+                        <div class="speciality-content text-center col-12 col-xl-7 m-auto">
+                            <h6 class="sub-heading">
+                                <span>Our Speciality</span>
+                            </h6>
+                            <h3 class="heading">
+                                Complete Solutions for your NFT
+                            </h3>
+                            <p class="text-white">
+                                Together, we're building a vibrant NFT community. Join us!
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="speciality-box position-relative text-center">
+                            <div class="icon d-flex justify-content-center rounded-circle position-absolute">
+                                <img src="assets/image/icon01.png" alt="SimSim" class="align-middle">
+                            </div>
+                            <h5 class="title text-white">Huge Collection</h5>
+                            <p class="text-white">Our collection features 1,00,000 unique and the project has a strong social consciousness component.</p>
+                            <h3 class="number">01</h3>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="speciality-box position-relative text-center">
+                            <div class="icon d-flex justify-content-center rounded-circle position-absolute">
+                                <img src="assets/image/icon02.png" alt="SimSim" class="align-middle">
+                            </div>
+                            <h5 class="title text-white">High Quality</h5>
+                            <p class="text-white">This collection by artist AI features mesmerizing generative art pieces that evolve and change over time.</p>
+                            <h3 class="number">02</h3>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="speciality-box position-relative text-center">
+                            <div class="icon d-flex justify-content-center rounded-circle position-absolute">
+                                <img src="assets/image/icon03.png" alt="SimSim" class="align-middle">
+                            </div>
+                            <h5 class="title text-white">Big Community</h5>
+                            <p class="text-white">The artwork is top-notch, and the Deadfellaz project has a vibrant community of collectors and supporters.</p>
+                            <h3 class="number">03</h3>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="speciality-box position-relative text-center">
+                            <div class="icon d-flex justify-content-center rounded-circle position-absolute">
+                                <img src="assets/image/icon04.png" alt="SimSim" class="align-middle">
+                            </div>
+                            <h5 class="title text-white">Market Value</h5>
+                            <p class="text-white">One of the largest NFT collections, by number of unique items with some selling for millions of dollars.</p>
+                            <h3 class="number">04</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- speciality end -->
+        <!-- portfolio start -->
+        <section class="portfolio position-relative">
+            <div class="shape"></div>
+            <div class="container-fluid container-xl">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="portfolio-content text-center">
+                            <h6 class="sub-heading">
+                                <span>Join NFT Portfolio</span>
+                            </h6>
+                            <h3 class="heading" style="margin-bottom: 2.375rem;">
+                                Become a SimSim Player Now
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-6">
+                        <div class="portfolio-left">
+                            <div class="portfolio-box position-relative d-flex  rounded-4">
+                                <div class="step fw-semibold position-absolute">
+                                    step 1
+                                </div>
+                                <div class="icon me-2">
+                                    <img src="assets/image/port-1.svg" alt="SimSim" class="align-middle">
+                                </div>
+                                <div class="p-content ps-3 text-white"
+                                    style="border-left: 1px solid hsla(0,0%,100%,.1);">
+                                    <h5 class="title">Connect your wallet</h5>
+                                    <p>Go to "Connect Wallet" option. Look for it in the header, navbar, or where you interact with NFTs (e.g., buying, minting).
+                                        & then Choose your wallet. Select your installed wallet from the pop-up list.
+                                        ater that Approve connection on us.</p>
+                                </div>
+                            </div>
+                            <div class="portfolio-box position-relative d-flex rounded-4">
+                                <div class="step fw-semibold position-absolute">
+                                    step 2
+                                </div>
+                                <div class="icon me-2">
+                                    <img src="assets/image/port-2.svg" alt="SimSim" class="align-middle">
+                                </div>
+                                <div class="p-content ps-3 text-white"
+                                    style="border-left: 1px solid hsla(0,0%,100%,.1);">
+                                    <h5 class="title">Buy your NFT</h5>
+                                    <p>Explore Marketplaces Look for an NFT marketplace that suits your interests (OpenSea, Rarible, etc.)
+                                        & then Find your NFT Browse collections and filter by price, category, or creator.
+                                        after that Review the NFT Check details like description, artist, and ownership history.</p>
+                                </div>
+                            </div>
+                            <div class="portfolio-box position-relative d-flex rounded-4">
+                                <div class="step fw-semibold position-absolute">
+                                    step 3
+                                </div>
+                                <div class="icon me-2">
+                                    <img src="assets/image/port-3.svg" alt="SimSim" class="align-middle">
+                                </div>
+                                <div class="p-content ps-3 text-white"
+                                    style="border-left: 1px solid hsla(0,0%,100%,.1);">
+                                    <h5 class="title">Create collection</h5>
+                                    <p>Go to "Create Collection" option & then Define collection details like Name, description, visuals (banner & image).
+                                        and Optional royalty for future sales. Upload your NFTs Individual files & details for each NFT.
+                                        Mint your NFTs Pay gas fees to create NFTs on blockchain. Launch your collection: Make NFTs discoverable for purchase.</p>
+                                </div>
+                            </div>
+                            <div class="portfolio-box position-relative d-flex rounded-4">
+                                <div class="step fw-semibold position-absolute">
+                                    step 4
+                                </div>
+                                <div class="icon me-2">
+                                    <img src="assets/image/port-4.svg" alt="SimSim" class="align-middle">
+                                </div>
+                                <div class="p-content ps-3 text-white"
+                                    style="border-left: 1px solid hsla(0,0%,100%,.1);">
+                                    <h5 class="title">Sell your NFT</h5>
+                                    <p>Sell your NFT: Fixed price or auction?** List your NFT Connect your wallet, find "Sell" option, set price (fixed) or auction duration.
+                                        Listing details, Describe your NFT, set category & royalty (optional fee on future sales).
+                                        after that Review & Launch, Check fees, confirm listing to make your NFT visible for purchase.
+                                        & then Promote (optional), Share on social media, join NFT communities, consider influencer promotion.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-6">
+                        <div class="portfolio-left align-middle">
+                            <div class="p-image">
+                                <img src="assets/image/portfolio.png" alt="port" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- portfolio end -->
+        <!-- project start -->
+        <section class="project py-5 position-relative">
+            <div class="shape-right"></div>
+            <div class="container-fluid-lg p-0">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="text-center">
+                            <h6 class="sub-heading">
+                                <span>Our Speciality</span>
+                            </h6>
+                            <h3 class="heading">OUR COLLECTION</h3>
+                        </div>
+                        <div class="swiper mySwiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-01.png"></a>
+                                            <img src="assets/image/project-01.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">AI Artwork</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-02.png"></a>
+                                            <img src="assets/image/project-02.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">3D Digital Artwork</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-03.png"></a>
+                                            <img src="assets/image/project-03.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">Virtual Artwork</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-04.png"></a>
+                                            <img src="assets/image/project-04.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">World of Women</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide ">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-05.png"></a>
+                                            <img src="assets/image/project-05.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">The Strange Art</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide ">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-06.png"></a>
+                                            <img src="assets/image/project-06.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">King Of Pirates</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide ">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-10.png"></a>
+                                            <img src="assets/image/project-10.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">Cryptopunks</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide ">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-08.png"></a>
+                                            <img src="assets/image/project-08.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">3D Digital Artwork</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide ">
+                                    <div class="project-box position-relative">
+                                        <div class="project-image overflow-hidden">
+                                            <a href="assets/image/project-09.png"></a>
+                                            <img src="assets/image/project-09.png" alt="image" class="img-fluid">
+                                        </div>
+                                        <div class="image-content position-absolute text-center">
+                                            <h5 class="text-white">The Strange Art</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- project end -->
+        <!-- roadmap start -->
+        <section class="roadmap position-relative">
+            <img src="assets/image/line.png" alt="line" class="position-absolute left-0"
+                style="z-index: -22; top: 30%;">
+            <div class="shape"></div>
+            <div class="container container-fluid-md">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="text-center">
+                            <h6 class="sub-heading">
+                                <span>Road Map</span>
+                            </h6>
+                            <h3 class="heading">The Journey of SimSim NFT</h3>
+                        </div>
+                        <div class="roadmain d-flex flex-wrap justify-content-between position-relative"
+                            style="margin-top: 5.625rem ;">
+                            <div class="roadmap-box w-md-12">
+                                <div class="step position-absolute">April 12, 2024</div>
+                                <div class="r-content">
+                                    <h5 class="title position-relative">Idea Generation</h5>
+                                    <p style="font-size: 0.9rem;">When I was visiting a lot of NFT websites, I noticed design flaws in them as the website was loaded with functionality but still 
+                                        users were not coming towards it, then I thought why not create an attractively designed NFT collection. A website should be created which will remove 
+                                        these shortcomings forever and then I started thinking of a unique name for my website and suddenly a word came in my mind - "Khul Ja SimSim" SimSim, 
+                                        which was a treasure of gold and silver and then I We chose the name SimSim for our NFT collection because our website will also store a collection of many NFT assets which is like a treasure trove.</p>
+                                </div>
+                            </div>
+                            <div class="roadmap-box right w-md-12">
+                                <div class="step position-absolute">April 15, 2024</div>
+                                <div class="r-content">
+                                    <h5 class="title position-relative">Tech Stack & assets Selection</h5>
+                                    <p style="font-size: 0.9rem;">First of all I chose Figma for website design, after that I chose the most used tech stack for building frontend projects 
+                                        which was HTML - CSS and JavaScript. After thati select fonts and then I used Pinterest for NFT related images and videos 
+                                        and visited many more website for images and video collection. </p>
+                                </div>
+                            </div>
+                            <div class="roadmap-box w-md-12 ">
+                                <div class="step position-absolute">April 17, 2024</div>
+                                <div class="r-content">
+                                    <h5 class="title position-relative">Front-End Design & Development</h5>
+                                    <p style="font-size: 0.9rem;">First created a user-friendly and attractive interface for SimSim in Figma and then used 
+                                        GSAP, Owl-Carousel animation, BootStrap, Jquery- along with HTML-CSS and JavaScript to develop interactive elements of the website for 
+                                        the front-end build. UI, also used tech stacks like Swiper-Bundle and then integrated their website with a blockchain wallet 
+                                        provider (for example, MetaMask) for wallet integration so users could connect their wallets and manage their NFTs. Can do.</p>
+                                </div>
+                            </div>
+                            <div class="roadmap-box right w-md-12">
+                                <div class="step position-absolute">May 02, 2024</div>
+                                <div class="r-content">
+                                    <h5 class="title position-relative">Testing</h5>
+                                    <p style="font-size: 0.9rem;">Carefully tested all functionality (animations, UI, assets, scripting) on different browsers and devices 
+                                        to identify and fix bugs and ensure responsive working.</p>
+                                </div>
+                            </div>
+                            <div class="roadmap-box  w-md-12">
+                                <div class="step position-absolute">May 04, 2024</div>
+                                <div class="r-content">
+                                    <h5 class="title position-relative">Deployment</h5>
+                                    <p style="font-size: 0.9rem;">Deploy The "SimSim" on reliable web hosting service (GitHub - Vercel - Netlify) to make SimSim accessible to the world. 
+                                        & all set! SimSim is in front of you right now</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- roadmap end -->
+        <!-- team start -->
+        <section class="team position-relative">
+            <div class="shape-right"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="text-center">
+                            <h6 class="sub-heading">
+                                <span>Team Members</span>
+                            </h6>
+                            <h3 class="heading col-12 col-lg-6 m-auto">Our Amazing Team Members</h3>
+                        </div>
+                        <div class="row mt-2 mt-lg-5">
+                            <div class="swiper mySwiper-team">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide  ">
+                                        <div class="team-box position-relative">
+                                            <div class="team-image overflow-hidden">
+                                                <a href="assets/image/team-01.png"></a>
+                                                <img src="assets/image/team-01.png" alt="image" class="img-fluid">
+                                            </div>
+                                            <div class="content-1 text-center" style="margin-top: 2rem;">
+                                                <h5 class=" text-white fw-bold mb-1" style="letter-spacing: -1.5px;">
+                                                    Ashutosh Singh</h5>
+                                                <p class="text-white fs-6">Founder & CEO</p>
+                                                <ul
+                                                    class="list-social d-flex align-items-center justify-content-center text ">
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-facebook-f text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://twitter.com/codeaashu"
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-twitter text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-solid fa-paper-plane text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide ">
+                                        <div class="team-box position-relative">
+                                            <div class="team-image overflow-hidden">
+                                                <a href="assets/image/team-02.jpg"></a>
+                                                <img src="assets/image/team-02.jpg" alt="image" class="img-fluid">
+                                            </div>
+                                            <div class="content-1 text-center" style="margin-top: 2rem;">
+                                                <h5 class=" text-white fw-bold mb-1" style="letter-spacing: -1.5px;">
+                                                    Ashutosh Singh</h5>
+                                                <p class="text-white fs-6">Designer</p>
+                                                <ul
+                                                    class="list-social d-flex align-items-center justify-content-center text ">
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-facebook-f text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://twitter.com/codeaashu"
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-twitter text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-solid fa-paper-plane text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide ">
+                                        <div class="team-box position-relative">
+                                            <div class="team-image overflow-hidden">
+                                                <a href="assets/image/team-03.png"></a>
+                                                <img src="assets/image/team-03.png" alt="image" class="img-fluid">
+                                            </div>
+                                            <div class="content-1 text-center" style="margin-top: 2rem;">
+                                                <h5 class=" text-white fw-bold mb-1" style="letter-spacing: -1.5px;">
+                                                    Ashutosh Singh</h5>
+                                                <p class="text-white fs-6">Developer</p>
+                                                <ul
+                                                    class="list-social d-flex align-items-center justify-content-center text ">
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-facebook-f text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://twitter.com/codeaashu"
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-twitter text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-solid fa-paper-plane text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide ">
+                                        <div class="team-box position-relative">
+                                            <div class="team-image overflow-hidden">
+                                                <a href="assets/image/team-04.jpg"></a>
+                                                <img src="assets/image/team-04.jpg" alt="image" class="img-fluid">
+                                            </div>
+                                            <div class="content-1 text-center" style="margin-top: 2rem;">
+                                                <h5 class=" text-white fw-bold mb-1" style="letter-spacing: -1.5px;">
+                                                    Ashutosh Singh</h5>
+                                                <p class="text-white fs-6">3D Artist </p>
+                                                <ul
+                                                    class="list-social d-flex align-items-center justify-content-center text ">
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-facebook-f text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://twitter.com/codeaashu"
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-brands fa-twitter text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href=""
+                                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                                            <i class="fa-solid fa-paper-plane text-white"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="brand  mt-4 mt-lg-5 text-center">
+                                <h6 class="sub-heading-1 text-white">
+                                    <span class="text-white">We Are Partnered with Top Brands</span>
+                                </h6>
+                                <div class="swiper mySwiper-brand">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brand1.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brand2.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brand3.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brand4.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brad5.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brand2.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                        <div class="swiper-slide ">
+                                            <a href="" class="text-decoration-none d-inline-block">
+                                                <img src="assets/image/brand7.png" alt="brand" class="img-fluid">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+        <!-- team end -->
+        <!-- review start -->
+        <section class="review position-relative">
+            <div class="shape"></div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="review-banner mx-3">
+                        <div class="container-fluid container-lg">
+                            <div class="text-center">
+                                <h6 class="sub-heading">
+                                    <span>What People Say</span>
+                                </h6>
+                                <h3 class="heading">What People Say</h3>
+                            </div>
+                            <div id="carouselExample" class="carousel slide">
+                                <div class="carousel-indicators">
+                                    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="0"
+                                        class="active" aria-current="true" aria-label="Slide 1"></button>
+                                    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="1"
+                                        aria-label="Slide 2"></button>
+                                    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2"
+                                        aria-label="Slide 3"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active ">
+                                        <img src="assets/image/review.png" alt="review" class="img-fluid my-4">
+                                        <p class="text-white fs-4 fw-light px-lg-5 px-0 ">“ This site sets the bar for NFT presentation. The visuals are captivating, 
+                                            and the minting process is smooth as butter. Bravo! “</p>
+                                        <div class="info text-center mt-4">
+                                            <img src="assets/image/review1.png" alt="SimSim" class="rounded-circle">
+                                            <h5 class="mb-1 text-white fw-bold">Mr. Web Designer</h5>
+                                            <p class="text-white">220k+ subscriber on YT</p>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="assets/image/review.png" alt="review" class="img-fluid my-4">
+                                        <p class="text-white fs-4 fw-light px-lg-5 px-0 ">“ Impressed by the clean architecture and focus on security. 
+                                            This website is built to scale and adapt to the evolving NFT landscape. “</p>
+                                        <div class="info text-center mt-4">
+                                            <img src="assets/image/review2.png" alt="SimSim" class="rounded-circle">
+                                            <h5 class="mb-1 text-white fw-bold">Bedimcode</h5>
+                                            <p class="text-white">161k+ subscriber on YT</p>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="assets/image/review.png" alt="review" class="img-fluid my-4">
+                                        <p class="text-white fs-4 fw-light px-lg-5 px-0 ">“ Interactive elements and a clear roadmap keep users engaged. 
+                                            This is a website that fosters a thriving NFT community. “</p>
+                                        <div class="info text-center mt-4">
+                                            <img src="assets/image/review3.png" alt="SimSim" class="rounded-circle">
+                                            <h5 class="mb-1 text-white fw-bold">codewithsadee</h5>
+                                            <p class="text-white">44k+ subscriber on YT</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+        <!-- review end -->
+        <!-- FAQ start -->
+        <section class="faq py-5 position-relative">
+            <div class="shape-right"></div>
+            <div class="container-fluid container-lg">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="text-lg-start text-center">
+                            <h6 class="sub-heading">
+                                <span>FAQs</span>
+                            </h6>
+                            <h3 class="heading">
+                                Frequently Aksed Questions
+                            </h3>
+                            <p class="text-white fs-6">Below is a list of frequently asked questions and answers from
+                                partners and 3D artist. Please check this FAQ first before contacting us.</p>
+                            <div class="faq-tab">
+                                <ul class="nav nav-pills mb-3 justify-content-center justify-content-lg-center"
+                                    id="pills-tab" role="tablist">
+                                    <li class="nav-item active  mb-2" role="presentation">
+                                        <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
+                                            data-bs-target="#pills-home" type="button" role="tab"
+                                            aria-controls="pills-home" aria-selected="true">Cryptocurrency</button>
+                                    </li>
+                                    <li class="nav-item mb-2" role="presentation">
+                                        <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
+                                            data-bs-target="#pills-profile" type="button" role="tab"
+                                            aria-controls="pills-profile" aria-selected="false">NFT Token</button>
+                                    </li>
+                                    <li class="nav-item mb-2" role="presentation">
+                                        <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
+                                            data-bs-target="#pills-contact" type="button" role="tab"
+                                            aria-controls="pills-contact" aria-selected="false">collection</button>
+                                    </li>
+                                    </li>
+                                    <li class="nav-item mb-2" role="presentation">
+                                        <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
+                                            data-bs-target="#pills-contact" type="button" role="tab"
+                                            aria-controls="pills-contact" aria-selected="false">Crypto Trading</button>
+                                    </li>
+
+                                </ul>
+                                <div class="tab-content" id="pills-tabContent">
+                                    <div class="tab-pane fade show active text-white" id="pills-home" role="tabpanel"
+                                        aria-labelledby="pills-home-tab" tabindex="0">
+                                        <dl class="faqs-list">
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq1-desc"
+                                                    class="text-white"> Is now a good time to invest in cryptocurrency?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq1-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>This is a tricky question. The cryptocurrency market is known for its volatility, 
+                                                        so there's no guaranteed "good time" to invest. It depends on the specific cryptocurrency, 
+                                                        your investment goals, and your risk tolerance.  It's crucial to do your own research on market trends, 
+                                                        the project behind the cryptocurrency, and understand the risks involved before investing.</p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq2-desc"
+                                                    class="text-white">How can I mine cryptocurrency?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq2-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Mining cryptocurrency involves using powerful computers to solve complex mathematical problems
+                                                         to verify transactions on a blockchain network.  In return for solving these problems, 
+                                                         miners are rewarded with new cryptocurrency. However, mining can be energy-intensive and 
+                                                         require specialized hardware, making it less accessible for casual users. 
+                                                        There are also cloud mining services, but these come with their own set of risks and fees.
+                                                    <p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq3-desc"
+                                                    class="text-white"> Is cryptocurrency legal?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq3-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>The legal status of cryptocurrency varies around the world. Some countries have embraced it, 
+                                                        while others have stricter regulations or outright bans.  Generally, owning cryptocurrency 
+                                                        itself is legal, but regulations surrounding its use can differ. 
+                                                        It's important to check your local laws and tax implications before investing.
+                                                    <p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq4-desc"
+                                                    class="text-white">What are some of the benefits of cryptocurrency?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq4-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Despite the risks, cryptocurrency offers some potential advantages: <br>
+                                                        > Faster and cheaper transactions <br>
+                                                        > Transparency <br>
+                                                        > Decentralization
+                                                    <p>
+                                                    <ul>
+                                                        <li><strong>aria-controls:</strong> se le asigna al botón dentro
+                                                            del elemento
+                                                            &lt;dt&gt; y permite indicar cuál es el elemento que
+                                                            controla, es decir, el &lt;dd&gt;.</li>
+                                                        <li><strong>aria-expanded:</strong> le da contexto a las
+                                                            tecnologías asistivas para indicar si el elemento se
+                                                            encuentra expandido o contraido.</li>
+                                                    </ul>
+                                                </div>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <div class="tab-pane text-white fade" id="pills-profile" role="tabpanel"
+                                        aria-labelledby="pills-profile-tab" tabindex="0">
+                                        <dl class="faqs-list">
+                                            <dl class="faqs-list">
+                                                <dt class="faq-question ">
+                                                    <button type="button" aria-expanded="false"
+                                                        aria-controls="faq1-desc" class="text-white"> What exactly am I buying when I purchase an NFT?</button>
+                                                    <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                                </dt>
+                                                <dd class="faq-answer" id="faq1-desc">
+                                                    <div class="faq-answer__content">
+                                                        <p>An NFT doesn't grant ownership of the physical asset it represents (like a painting or song). 
+                                                            Instead, you own the unique digital token itself, which is recorded on the blockchain. 
+                                                            This token acts as a certificate of authenticity and verifiable proof that you own that 
+                                                            specific digital version of the asset.  In some cases, NFTs might come with additional 
+                                                            benefits like exclusive content, community access, or even commercial usage rights.</p>
+                                                    </div>
+                                                </dd>
+                                                <dt class="faq-question ">
+                                                    <button type="button" aria-expanded="false"
+                                                        aria-controls="faq2-desc" class="text-white">How much are NFTs worth? Is it a good investment?</button>
+                                                    <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                                </dt>
+                                                <dd class="faq-answer" id="faq2-desc">
+                                                    <div class="faq-answer__content">
+                                                        <p>The value of an NFT is ultimately determined by what someone else is willing to pay for it.
+                                                            There's no inherent value in the digital asset itself, and the NFT market is still young and evolving.
+                                                            While some NFTs have fetched millions, many others hold little to no value.  Before investing,  
+                                                            carefully research the project behind the NFT, understand the potential utility and purpose it offers, 
+                                                            and consider the artist or creator's reputation.Remember, invest responsibly and only what you can afford to lose.
+                                                        <p>
+                                                    </div>
+                                                </dd>
+                                                <dt class="faq-question ">
+                                                    <button type="button" aria-expanded="false"
+                                                        aria-controls="faq3-desc" class="text-white"> Where can I buy and sell NFTs?</button>
+                                                    <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                                </dt>
+                                                <dd class="faq-answer" id="faq3-desc">
+                                                    <div class="faq-answer__content">
+                                                        <p>NFTs are primarily bought and sold on online marketplaces.  These platforms allow users to 
+                                                            browse, purchase, and sell NFTs.  Each marketplace has its own fees and functionalities, 
+                                                            so it's important to compare and choose one that suits your needs.  Most NFT marketplaces require users to have 
+                                                            a crypto wallet funded with cryptocurrency (often Ethereum) to facilitate transactions.
+                                                        <p>
+                                                    </div>
+                                                </dd>
+                                                <dt class="faq-question ">
+                                                    <button type="button" aria-expanded="false"
+                                                        aria-controls="faq4-desc" class="text-white">Are NFTs secure?</button>
+                                                    <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                                </dt>
+                                                <dd class="faq-answer" id="faq4-desc">
+                                                    <div class="faq-answer__content">
+                                                        <p>The underlying technology, blockchain, offers a high level of security. The ownership 
+                                                            record of an NFT is transparent and immutable on the blockchain. However, security risks 
+                                                            can arise depending on how you store your NFT.  Using a reputable 
+                                                            NFT marketplace and a secure crypto wallet is crucial for protecting your investment.
+                                                        <p>
+                                                        <ul>
+                                                            <li><strong>aria-controls:</strong> se le asigna al botón
+                                                                dentro
+                                                                del elemento
+                                                                &lt;dt&gt; y permite indicar cuál es el elemento que
+                                                                controla, es decir, el &lt;dd&gt;.</li>
+                                                            <li><strong>aria-expanded:</strong> le da contexto a las
+                                                                tecnologías asistivas para indicar si el elemento se
+                                                                encuentra expandido o contraido.</li>
+                                                        </ul>
+                                                    </div>
+                                                </dd>
+                                            </dl>
+                                    </div>
+                                    <div class="tab-pane text-white fade" id="pills-contact" role="tabpanel"
+                                        aria-labelledby="pills-contact-tab" tabindex="0">
+                                        <dl class="faqs-list">
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq1-desc"
+                                                    class="text-white"> What is an NFT collection?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq1-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>An NFT collection is a group of digital assets, each represented by 
+                                                        a unique non-fungible token (NFT) on a blockchain. These NFTs can be 
+                                                        images, videos, audio files, or even interactive experiences.  
+                                                        Think of them like baseball cards, but digital and one-of-a-kind.</p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq2-desc"
+                                                    class="text-white">What are some popular NFT collections?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq2-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Some of the most well-known NFT collections include Bored Ape Yacht Club
+                                                         (BAYC), CryptoPunks, and Art Blocks Curated. These collections often 
+                                                         feature profile picture (PFP) artwork and have a strong celebrity following.
+                                                    <p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq3-desc"
+                                                    class="text-white"> Why do people buy NFT collections?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq3-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>People buy NFTs for a variety of reasons. Some see them as a potential investment, 
+                                                        hoping their value will increase over time. Others value the community and social connections 
+                                                        associated with certain collections. There's also a growing interest in NFTs 
+                                                        for their utility, such as access to exclusive events or digital content.
+                                                    <p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq4-desc"
+                                                    class="text-white">Where can I buy NFT collections?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq4-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>NFT collections are typically bought and sold on online marketplaces like OpenSea or Rarible. These 
+                                                        platforms allow users to browse collections, view individual NFTs, and participate in auctions or 
+                                                        direct sales.  Remember, the NFT market can be volatile, so do your research before buying.
+                                                    <p>
+                                                    <ul>
+                                                        <li><strong>aria-controls:</strong> se le asigna al botón dentro
+                                                            del elemento
+                                                            &lt;dt&gt; y permite indicar cuál es el elemento que
+                                                            controla, es decir, el &lt;dd&gt;.</li>
+                                                        <li><strong>aria-expanded:</strong> le da contexto a las
+                                                            tecnologías asistivas para indicar si el elemento se
+                                                            encuentra expandido o contraido.</li>
+                                                    </ul>
+                                                </div>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <div class="tab-pane text-white fade" id="pills-disabled" role="tabpanel"
+                                        aria-labelledby="pills-disabled-tab" tabindex="0">
+                                        <dl class="faqs-list">
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq1-desc"
+                                                    class="text-white"> What's the difference between Bitcoin and crypto trading?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq1-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Bitcoin is a specific type of cryptocurrency, like a brand name. 
+                                                        Crypto trading refers to buying and selling any cryptocurrency, 
+                                                        like Bitcoin, Ethereum, or others, hoping to profit from price fluctuations.</p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq2-desc"
+                                                    class="text-white">Is crypto trading risky?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq2-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Yes, crypto trading is generally considered high-risk. Cryptocurrency 
+                                                        markets are known for their volatility, meaning prices can swing wildly in 
+                                                        a short time. This can lead to significant losses if you're not careful.
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq3-desc"
+                                                    class="text-white"> What should I consider before starting crypto trading?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq3-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Before diving in, it's crucial to do your research. Understand the basics of blockchain 
+                                                        technology and how cryptocurrencies work. Research different crypto projects and choose ones 
+                                                        you believe have potential. Remember, never invest more than you can afford to lose.
+                                                    <p>
+                                                </div>
+                                            </dd>
+                                            <dt class="faq-question ">
+                                                <button type="button" aria-expanded="false" aria-controls="faq4-desc"
+                                                    class="text-white">Where can I trade cryptocurrency?</button>
+                                                <i class="fa-solid fa-circle-plus" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd class="faq-answer" id="faq4-desc">
+                                                <div class="faq-answer__content">
+                                                    <p>Cryptocurrency exchanges are online platforms where you can buy and sell cryptocurrencies. Popular 
+                                                        options include Coinbase, Binance, and Kraken. These platforms have varying fees and features, so 
+                                                        compare them before choosing one.  Remember, these exchanges may not be available in all regions.
+                                                    <p>
+                                                    <ul>
+                                                        <li><strong>aria-controls:</strong> se le asigna al botón dentro
+                                                            del elemento
+                                                            &lt;dt&gt; y permite indicar cuál es el elemento que
+                                                            controla, es decir, el &lt;dd&gt;.</li>
+                                                        <li><strong>aria-expanded:</strong> le da contexto a las
+                                                            tecnologías asistivas para indicar si el elemento se
+                                                            encuentra expandido o contraido.</li>
+                                                    </ul>
+                                                </div>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="faq-img align-middle text-center">
+                            <img src="assets/image/img-faq.png" alt="SimSim" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- FAQ end -->
+        <!-- creation start -->
+        <section class="create position-relative">
+            <div class="shape"></div>
+            <div class="container-fluid container-lg">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="create-main position-relative">
+                            <div class="create-content position-relative ">
+                                <h4 class="fs-2 fw-bold text-white mb-2">Create your NFT portfolio</h4>
+                                <p class="fw-light text-white">Get udpated with news, tips & tricks</p>
+                                <button class="action-btn fs-6" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                    <span>Join Now</span>
+                                </button>
+                            </div>
+                            <img src="assets/image/create-banner.png" alt="SimSim"
+                                class="img-fluid position-absolute d-none d-sm-flex">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- creation end -->
+        <!-- footer start -->
+        <footer class="position-relative pb-4">
+            <div class="container-fluid container-xl">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="footer-content d-flex flex-wrap">
+                            <div class="col-lg-4 col-12 pb-5 pb-lg-0">
+                                <div class="logo">
+                                    <img src="assets/image/simsim.png" alt="logo" class="img-fluid">
+                                </div>
+                                <ul class="list-social d-flex align-items-center justify-content-start text mt-3">
+                                    <li>
+                                        <a href=""
+                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                            <i class="fa-brands fa-facebook-f text-white"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://twitter.com/codeaashu"
+                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                            <i class="fa-brands fa-twitter text-white"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href=""
+                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none">
+                                            <i class="fa-solid fa-paper-plane text-white"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href=""
+                                            class="d-flex align-items-center justify-content-center rounded-circle text-decoration-none text-white">
+                                            <i class="fa-brands fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-8 col-12 ps-xxl-5 ps-2">
+                                <div class="top d-flex flex-wrap">
+                                    <ul class="widget col-6 col-sm-3 lh-lg ps-2">
+                                        <li>
+                                            <h5 class="title text-white mb-3 mb-lg-5">Quick link</h5>
+                                        </li>
+                                        <li><a href="#" class="fw-light text-white">NFT Trading</a></li>
+                                        <li><a href="#" class="fw-light text-white">Development</a></li>
+                                        <li><a href="#" class="fw-light text-white">Advertisement</a></li>
+                                        <li><a href="#" class="fw-light text-white">Carrer</a></li>
+                                    </ul>
+                                    <ul class="widget col-6 col-sm-3 lh-lg ">
+                                        <li>
+                                            <h5 class="title text-white mb-3 mb-lg-5">Help</h5>
+                                        </li>
+                                        <li><a href="#" class="fw-light text-white">About Us</a></li>
+                                        <li><a href="#" class="fw-light text-white">Team Members</a></li>
+                                        <li><a href="#" class="fw-light text-white">Support</a></li>
+                                        <li><a href="#" class="fw-light text-white">Refund Policy</a></li>
+                                    </ul>
+                                    <div class="widget col-12 col-sm-6">
+                                        <h5 class="title text-white mb-3 mb-lg-5">Help</h5>
+                                        <form action="#" class="text-start text-white">
+                                            <p>Get udpated with news, tips & tricks</p>
+                                            <div class=" mb-3 position-relative">
+                                                <input type="email" class="form-control text-white" id="recipient-name"
+                                                    placeholder="E-mail">
+                                                <button class="border-0 text-white"><i class="fa-solid fa-at"
+                                                        style="color: hsla(0,0%,100%,.3);"></i></button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                                <div class="bottom d-flex flex-wrap align-items-center justify-content-between mt-5">
+                                    <p style="color: hsla(0,0%,100%,.3);">Copyright © 2024 SimSim. Creativity of aashu</p>
+                                    <ul class="list-social d-flex me-0 me-lg-3">
+                                        <li><a href="#" class="fw-light text-white ms-xxl-5 ms-0">Terms & Condition</a>
+                                        </li>
+                                        <li><a href="#" class="fw-light text-white ms-xxl-5 ms-0">Privacy Policy</a>
+                                        </li>
+                                        <li><a href="#" class="fw-light text-white ms-xxl-5 ms-0">Cookie Policy</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+        <!-- back to top start -->
+        <a href=""
+            class="scroll-top d-flex align-items-center justify-content-center text-center position-fixed rounded-circle">
+            <span><i class="fa-solid fa-angle-up text-white fs-5"></i></span>
+        </a>
+        <!-- back to top end -->
+        <div class="modal fade needs-validation" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Sign Up</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="mb-3">
+                                <input type="text" class="form-control" id="recipient-name" placeholder="E-mail">
+                                <div class="valid-feedback">
+                                    Looks good!
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <input type="password" class="form-control" id="message-text"
+                                    placeholder="Password"></input>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="action-btn col-6 " data-bs-dismiss="modal"><span
+                                class="col-12">Close</span></button>
+                        <button type="submit" class="action-btn col-6 "><span class="col-12">Submit</span></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- loader start -->
+    <!-- <div class="loader  ">
+    </div> -->
+    <!-- loader end -->
+
+
+
+    <!-- js -->
+    <script src="assets/js/jquery-3.6.4.min.js"></script>
+    <!-- boostrap js -->
+    <script src="assets/js/bootstrap.bundle.js"></script>
+    <!-- swiper js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper.js"></script>
+    <!-- js ui -->
+    <!-- <script src="assets/js/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#accordion").accordion();
+        });
+    </script> -->
+    <script src="assets/js/faq.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.fa-bars-staggered').click(function () {
+                $('.fa-bars-staggered').toggleClass('fa-xmark');
+                $('.nav-menu').slideToggle('active');
+            });
+            $(window).scroll(function () {
+                if (scrollY > 150) {
+                    $('header').addClass('sticky');
+                }
+                else {
+                    $('header').removeClass('sticky');
+                }
+            });
+            $(window).on("scroll", function () {
+                if ($(this).scrollTop() > 150) {
+                    $('.scroll-top').css("opacity", 1);
+                } else {
+                    $('.scroll-top').css("opacity", 0);
+                }
+            });
+            $('scroll-top').click(function () {
+                $('html').animate({ scrollTop: 0 });
+            })
+            $(window).load(function () {
+            $(".loader").delay(30).css("display", "none");
+        });
+        });
+       
+    </script>
+
+</body>
+
+</html>

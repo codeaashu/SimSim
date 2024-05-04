@@ -1,0 +1,220 @@
+@media (max-width:1400px) {
+  .about-right .images::after {
+    visibility: hidden;
+  }
+  .about-right .images .img1 {
+    margin: 60px 0 0 46px;  
+  }
+  .about-right .images .img6 {
+    left: 29px;
+  }
+  .about-right .images .img2 {
+    left: -19px;
+}
+  .about-right .images .img5 {
+    bottom: -95px;
+    right: 51px;
+  }
+  .about-right .images .img4 {
+    left: 284px;
+  }
+  .swiper-button-prev, .swiper-rtl .swiper-button-next{
+    display: none;
+  }
+  .swiper-button-next, .swiper-rtl .swiper-button-next{
+    display: none;
+  }
+  .project-box .project-image {
+    height: 300px;
+} 
+}
+@media (max-width:1200px) {
+  .banner-right .image{
+    margin-right: 0px;
+    margin: auto;
+  }
+  .banner-left {
+    padding-bottom: 65px;
+  }
+  .about-right .images .img1 {
+    margin: 60px 0 0 46px;  
+  }
+  .about-right .images .img6 {
+    left: 29px;
+  }
+  .about-right .images .img2 {
+    left: 40px;
+  }
+  .about-right .images .img5 {
+    bottom: -95px;
+    right: 51px;
+  }
+  .about-right .images .img4 {
+    left: 284px;
+  }
+  .about-content {
+    padding: 70px 0 75px 0px;
+  }
+  .project-box .project-image {
+    height: 275px;
+} 
+
+}
+@media (max-width:991px) {
+ 
+ 
+
+.team {
+    padding: 1.875rem 0 4.5625rem;
+}
+  
+}
+
+
+
+@media (max-width:786px) {
+  .w-md-12{
+    width: 100%;
+  }
+  .banner .heading {
+    font-size: 40px;
+}
+
+  .banner-left {
+    padding-bottom: 35px;
+  }
+  .heading{
+    font-size: 30px;
+  }
+  .about-content p{
+    font-size: 14px;
+  }
+.about-right .images .img1 {
+  margin: 60px 0 0 143px;  
+}
+.about-right .images .img6 {
+  left: 29px;
+}
+.about-right .images .img2 {
+  left: 40px;
+}
+.about-right .images .img5 {
+  bottom: -95px;
+  right: 51px;
+}
+.about-right .images .img4 {
+  left: 284px;
+}
+.about-content {
+  padding: 70px 0 75px 0px;
+}
+.speciality-content p{
+  font-size: 14px;
+  padding: 0;
+}
+.right {
+  margin-left: 0rem;
+  margin-right: 0;
+transform: translateY(0px);
+}
+.roadmap-box.right:after {
+  right: -37px;
+  left: auto;
+}
+.roadmap-box.right:before {
+  right: -28px;
+  left: auto;
+}
+.roadmain:after {
+  height: 0;
+}
+.roadmap-box {
+  margin-right: 0px; 
+}
+.roadmap {
+    padding: 2.375rem 0;
+}
+.create-main img {
+  top: -35px;
+  right: 21px;
+}
+.create {
+  padding: 50px 0 98px;
+}
+}
+
+
+
+@media (max-width:576px) {
+
+  .action-btn span {
+    padding: 18px 34px;
+}
+  .play {
+    margin-top: 70px;
+}
+  .p-icon2 {
+    height: 61px;
+    margin-right: 9px;
+    max-width: 61px;
+}
+  .p-icon {
+    height: 61px;
+    margin-right: 9px;
+    max-width: 61px;
+}
+.content h5 {
+  font-size: 16px;
+}
+.content p {
+  font-size: 12px;
+}
+.owner {
+  border-radius: 22px;
+  padding: 11px;
+  bottom: 119px;
+}
+.banner-right .price {
+  border-radius: 22px;
+  padding: 11px;
+}
+
+.about-right .images .img1 {
+    margin: 60px 0 0 56px;  
+}
+.about-right .images .img3 {
+  display: none;
+}
+.about-right .images .img2 {
+  left: -4px;
+  z-index: 4;
+}
+.about-right .images .img5 {
+  bottom: -95px;
+  right: 15px;
+}
+
+
+
+
+}
+@media (max-width:360px) {
+  .image img {
+    border-radius: 81px;
+ 
+}
+.about-right .images .img1 {
+  margin: 59px 0 0 16px;
+}
+.about-right .images .img6 {
+visibility: hidden;}
+  .about-right .images .img1 {
+    border-radius: 70px;
+    max-width: 314px;
+}
+.title{
+  font-size: 12px;
+}
+
+}
+
