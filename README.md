@@ -1,24 +1,12 @@
-# SimSim
-SimSim - NFT Marketplace
-
-https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
-
 # 🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟 
 
 # 𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞 
-
-
-𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today
-
-🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
-
+## 𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today
+### 🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
 .
-
 .
-
 .
-
-◉ SimSim Link ↣ 
+## ◉ SimSim Link ↣ https://simsim-nft.vercel.app/
 .
 .
 .
@@ -31,7 +19,8 @@ https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
 ⭐ Most Rated NFT Website
 📬 High Quality NFT Collections
 .
-
+.
+.
 ## ✅ The design is responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
 .
 .
