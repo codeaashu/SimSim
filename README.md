@@ -37,5 +37,7 @@
 🎨 Figma Design : https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
 
 ## ✅ The design is responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
+![MacBook, iPhone X, and screen](https://github.com/codeaashu/SimSim/assets/130897584/ce91c640-a159-4599-a97b-fbc95154e3bc)
+
 
 & all set! 👍🏻
