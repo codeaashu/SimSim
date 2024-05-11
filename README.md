@@ -19,8 +19,6 @@
 📬 High Quality NFT Collections
 
 
-## ✅ The design is responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
-
 ## 🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤 - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma
 
 
@@ -40,9 +38,6 @@
 
 🎨 Figma Design : https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
 
-
-🌟 And please, if you are on GitHub, give a star to this amazing project.
-
-💌 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨 - https://lnkd.in/gNBJ_jCQ
+## ✅ The design is responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
 
 & all set! 👍🏻
