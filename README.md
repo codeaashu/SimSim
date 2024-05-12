@@ -2,7 +2,7 @@
 ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/74517557-640c-4595-a3cc-fffda4ba2fb3)
 
 # 𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜e
-## 𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today 
+## 𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today  
 ### 🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
 
 ## SimSim ↣ https://simsim-nft.vercel.app/
