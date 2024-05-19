@@ -11,7 +11,7 @@
 # Features :
 🎨 Sleek Design
 📱 Responsive Layout
-✨ Engaging Animations
+✨ Engaging Animations 
 🚀 Effortless Navigation
 💌 Contribution in WEB3 community
 ⭐ Most Rated NFT Website
