@@ -1,4 +1,4 @@
-# 🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟 
+# 🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟
 ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/70b7f046-dcbc-4349-ae2b-0e3fa5cffda2)
 
 
