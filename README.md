@@ -6,7 +6,7 @@
 ### 🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
 
 ## SimSim ↣ https://simsim-nft.vercel.app/
- 
+
 # Features :
 🎨 Sleek Design
 📱 Responsive Layout
