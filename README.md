@@ -1,14 +1,23 @@
- <div align="center">
-# 🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟
- </br>
+<div align="center">
+<h2 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h2>
+ 
+  <br />
 ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/91ae6b11-a6af-4b5e-92c8-87b882dc1e5c)
-</br>
-# 𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜e
-## 𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today 
-### 🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
+ 
+<br />
 
-## SimSim ↣ https://simsim-nft.vercel.app/
+ <h1 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜e</h1>
+
+<h2 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today </h2>
+
+🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
+ 
+ <a href="https://simsim-nft.vercel.app/"><strong>➥ Live Demo</strong></a> 
+
 </div>
+
+<br />
+
 # Features :
 🎨 Sleek Design
 📱 Responsive Layout
