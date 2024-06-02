@@ -1,8 +1,10 @@
 <div align="center">
 <h2 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h2>
  
-  <br />
-![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/91ae6b11-a6af-4b5e-92c8-87b882dc1e5c)
+ <br />
+
+ ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/2bb37df6-0086-4b3d-894e-51c4c9159f0d)
+
  
 <br />
 
