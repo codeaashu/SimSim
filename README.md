@@ -1,4 +1,4 @@
-s<div align="center">
+<div align="center">
 <h2 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h2>
  
  <br />
