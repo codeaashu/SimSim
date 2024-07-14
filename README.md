@@ -5,9 +5,11 @@
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/SimSim?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 <hr>
-  <h1 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h1>
+  <h1 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜e 🌟</h1>
 
-`Penguin Fashion is a shoe collection Website Template with responsive ui for desktop and mobile device built with HTML, CSS and Bootstrap.`
+  <h2 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today </h2>
+
+`🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.`
 
   <a href="https://simsim-nft.vercel.app/"><strong>➥ Live Demo</strong></a>
 
@@ -15,34 +17,24 @@
 <div align="center">
  ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/2bb37df6-0086-4b3d-894e-51c4c9159f0d)
 
-<br />
-
- <h1 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜e</h1>
-
-<h2 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today </h2>
-
-`🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.`
- 
- <a href="https://simsim-nft.vercel.app/"><strong>➥ Live Demo</strong></a> 
-
 </div>
 
 <br />
 
-# Features :
-`🎨 Sleek Design
+`# Features :`
+🎨 Sleek Design
 📱 Responsive Layout
 ✨ Engaging Animations 
 🚀 Effortless Navigation
 💌 Contribution in WEB3 community
 ⭐ Most Rated NFT Website
-📬 High Quality NFT Collections`
+📬 High Quality NFT Collections
 
 
-## 🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤 - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma
+`## 🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤` - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma
 
 
-## 👩🏻‍💻 𝐋𝐎𝐂 (𝐋𝐢𝐧𝐞 𝐨𝐟 𝐂𝐨𝐝𝐞) 𝐔𝐬𝐞𝐬 : 61,794
+`## 👩🏻‍💻 𝐋𝐎𝐂 (𝐋𝐢𝐧𝐞 𝐨𝐟 𝐂𝐨𝐝𝐞) 𝐔𝐬𝐞𝐬 : 61,794`
 📂 HTML - 1333
 📂 CSS - 10245
 📂 JS - 5663
