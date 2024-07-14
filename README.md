@@ -15,9 +15,9 @@
 
 </div> <hr>
 <div align="center">
-![Desktop PC in dark room](https://github.com/user-attachments/assets/3402c4c7-0096-43a1-80d3-8629139355fc)
 
-  
+ ![Desktop PC in dark room](https://github.com/user-attachments/assets/8250a5f4-6393-454a-827e-7099647460a9)
+
 </div>
 
 <br />
