@@ -19,10 +19,10 @@
  ![Desktop PC in dark room](https://github.com/user-attachments/assets/8250a5f4-6393-454a-827e-7099647460a9)
 
 </div>
-
 <br />
 
 # Features :
+```
 🎨 Sleek Design
 📱 Responsive Layout
 ✨ Engaging Animations 
@@ -30,8 +30,9 @@
 💌 Contribution in WEB3 community
 ⭐ Most Rated NFT Website
 📬 High Quality NFT Collections
+```
 
-## Technologies
+## 🌐 Technologies
 
 `HTML5` `CSS3` `JavaScript` `Jquery UI` `GSAP` `BootStrap` `Owl Carousel Animation` `LocoMotive Animation` `Swiper Bundle` `Figma`
 
