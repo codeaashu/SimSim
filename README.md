@@ -1,8 +1,18 @@
 <div align="center">
-<h2 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h2>
- 
- <br />
 
+![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/SimSim)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/SimSim-Fashion?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/SimSim-Fashion?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+<hr>
+  <h1 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h1>
+
+`Penguin Fashion is a shoe collection Website Template with responsive ui for desktop and mobile device built with HTML, CSS and Bootstrap.`
+
+  <a href="https://simsim-nft.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div> <hr>
+<div align="center">
  ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/2bb37df6-0086-4b3d-894e-51c4c9159f0d)
 
 <br />
