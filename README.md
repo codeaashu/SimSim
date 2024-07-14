@@ -15,13 +15,12 @@
 
 </div> <hr>
 <div align="center">
- ![Desktop PC in dark room](https://github.com/codeaashu/SimSim/assets/130897584/2bb37df6-0086-4b3d-894e-51c4c9159f0d)
-
+![Desktop PC in dark room](https://github.com/user-attachments/assets/f1e16a93-4cf3-451a-b64e-55ec21549360)
 </div>
 
 <br />
 
-`# Features :`
+# Features :
 🎨 Sleek Design
 📱 Responsive Layout
 ✨ Engaging Animations 
@@ -31,10 +30,10 @@
 📬 High Quality NFT Collections
 
 
-`## 🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤` - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma
+## 🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤 - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma
 
 
-`## 👩🏻‍💻 𝐋𝐎𝐂 (𝐋𝐢𝐧𝐞 𝐨𝐟 𝐂𝐨𝐝𝐞) 𝐔𝐬𝐞𝐬 : 61,794`
+## 👩🏻‍💻 𝐋𝐎𝐂 (𝐋𝐢𝐧𝐞 𝐨𝐟 𝐂𝐨𝐝𝐞) 𝐔𝐬𝐞𝐬 : 61,794
 📂 HTML - 1333
 📂 CSS - 10245
 📂 JS - 5663
@@ -48,10 +47,10 @@
 📂 Owl Carousel JS - 1219
 
 
-🎨 Figma Design : https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
+`🎨 Figma Design` : https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
 
 ## ✅ The design is responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
 ![MacBook, iPhone X, and screen](https://github.com/codeaashu/SimSim/assets/130897584/ce91c640-a159-4599-a97b-fbc95154e3bc)
 
 
-& all set! 👍🏻
+`& all set! 👍🏻`
