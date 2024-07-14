@@ -31,9 +31,12 @@
 ⭐ Most Rated NFT Website
 📬 High Quality NFT Collections
 
-`🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤 - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma`
+## Technologies
+
+`HTML5` `CSS3` `JavaScript` `Jquery UI` `GSAP` `BootStrap` `Owl Carousel Animation` `LocoMotive Animation` `Swiper Bundle` `Figma`
 
 ## 👩🏻‍💻 𝐋𝐎𝐂 (𝐋𝐢𝐧𝐞 𝐨𝐟 𝐂𝐨𝐝𝐞) 𝐔𝐬𝐞𝐬 : 61,794
+```
 📂 HTML - 1333
 📂 CSS - 10245
 📂 JS - 5663
@@ -45,7 +48,7 @@
 📂 Swiper Bundle JS - 104
 📂 Owl Carousel CSS - 857
 📂 Owl Carousel JS - 1219
-
+```
 
 `🎨 Figma Design` : https://www.figma.com/community/file/1368998274508228309/simsim-nft-marketplace
 
