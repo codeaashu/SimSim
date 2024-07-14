@@ -21,7 +21,7 @@
 
 <h2 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today </h2>
 
-🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.
+`🌐 SimSim is the premier marketplace for nifties, which are digital items you can truly own for yourself.`
  
  <a href="https://simsim-nft.vercel.app/"><strong>➥ Live Demo</strong></a> 
 
@@ -30,13 +30,13 @@
 <br />
 
 # Features :
-🎨 Sleek Design
+`🎨 Sleek Design
 📱 Responsive Layout
 ✨ Engaging Animations 
 🚀 Effortless Navigation
 💌 Contribution in WEB3 community
 ⭐ Most Rated NFT Website
-📬 High Quality NFT Collections
+📬 High Quality NFT Collections`
 
 
 ## 🌐𝐓𝐞𝐜𝐡𝐒𝐭𝐚𝐜𝐤 - HTML5 - CSS3 - JavaScript - Jquery UI - GSAP - BootStrap - Owl Carousel Animation - LocoMotive Animation - Swiper Bundle - Figma
