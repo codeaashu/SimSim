@@ -1,8 +1,8 @@
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/SimSim)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/SimSim-Fashion?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/SimSim-Fashion?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/SimSim?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/SimSim?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 <hr>
   <h1 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 🌟</h1>
