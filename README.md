@@ -9,7 +9,7 @@
 
   <h2 align="center">𝐒𝐢𝐦𝐒𝐢𝐦 - Collect Next Generation NFTs Today </h2>
 
-`🌐 SimSim is the premier marketplace for nifty, which are digital items you can truly own for yourself.`
+`🌐 SimSim is the premier marketplace for nifty, which are digital item you can truly own for yourself.`
 
   <a href="https://simsim-nft.vercel.app/"><strong>➥ Live Demo</strong></a>
 
