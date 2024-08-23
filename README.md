@@ -1,4 +1,4 @@
-       <div align="center">
+        <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/SimSim)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/SimSim?style=social)
