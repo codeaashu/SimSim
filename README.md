@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/SimSim)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/SimSim?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/SimSim?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 <hr>
   <h1 align="center">🌟 Introducing to 𝐒𝐢𝐦𝐒𝐢𝐦 - 𝐍𝐅𝐓 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜e 🌟</h1>
 
@@ -58,3 +58,14 @@
 
 
 `& all set! 👍🏻`
+
+---
+
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
+
